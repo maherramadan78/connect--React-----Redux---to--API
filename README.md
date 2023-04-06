@@ -1,1 +1,1 @@
-# connect--React-----Redux---to--API
+# connect-React-Redux-to-API
